@@ -10,15 +10,9 @@ excerpt: "The Open Organization community maintains openly licensed, working def
 header:
   image: /assets/images/definitions.png
 gallery:
-  - url: /assets/images/books/human_distance_cover.png
-    image_path: assets/images/books/human_distance_cover.png
-    alt: "Human at a distance"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  - url: /assets/images/books/openorg_definition_cover.jpg
+    image_path: assets/images/books/openorg_definition_cover.jpg
+    alt: "open org definition"
 ---
 
 # Definitions
@@ -28,6 +22,8 @@ Anyone can help improve them. Join the [Open Organization community on GitHub](h
 
 ## The Open Organization Definition
 Forward-thinking organizations are embracing open principles in order to become more agile, innovative, and engaged. [The Open Organization Definition](https://theopenorganization.org/definition/open-organization-definition) outlines five characteristics of open organizations—transparency, inclusivity, adaptability, collaboration, and community—and explains how they can serve as a foundation for new organizational behaviors, systems, and structures.
+
+{% include gallery id="gallery" %}
 
 ### Maturity model
 How open is your organization? The Open Organization Maturity Model can help you assess your team, department, and organization. [Use the tool](https://www.ready-to-innovate.com/openorg/) and [download the text](https://github.com/open-organization/open-org-maturity-model).

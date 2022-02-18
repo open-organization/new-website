@@ -19,20 +19,16 @@ gallery:
   - url: /assets/images/books/openorg_educators_cover.png
     image_path: assets/images/books/openorg_educators_cover.png
     alt: "open org educators workbook"
-
-  - url: /assets/images/books/openorg_workbook_cover.png
-    image_path: assets/images/books/openorg_workbook_cover.png
-    alt: "Open org workbook"
+gallery2:
   - url: /assets/images/books/openorg_fieldguide_cover.png
     image_path: assets/images/books/openorg_fieldguide_cover.png
     alt: "Open org field guide"
-    
   - url: /assets/images/books/openorg_leadersmanual_cover.png
     image_path: assets/images/books/openorg_leadersmanual_cover.png
     alt: "Open org Leaders Manual"
-  - url: /assets/images/books/openorg_definition_cover.jpg
-    image_path: assets/images/books/openorg_definition_cover.png
-    alt: "open org definition"
+  - url: /assets/images/books/openorg_workbook_cover.png
+    image_path: assets/images/books/openorg_workbook_cover.png
+    alt: "Open org workbook"
 ---
 
 # Books
@@ -47,6 +43,13 @@ In [*Opening Up to Leadership Talent*](https://github.com/open-organization/open
 ## Guides
 Guides are collaboratively written, multi-author works collecting numerous voices in conversation about a single topic.
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery id="gallery" %}
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+## Core volumes
+
+Core volumes are the backbone of the Open Organization project's library. They contain key definitions, helpful resources, useful activities, and informative case studies organizations can use to become more open—no matter their size or mission.
+
+{% include gallery id="gallery2" %}
+
+## License
+Volumes in the *Open Organization* book series are licensed via Creative Commons [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license. See individual volumes for more specific licensing details.
