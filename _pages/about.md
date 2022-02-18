@@ -3,7 +3,7 @@ layout: splash
 title: About
 permalink: /about/
 header:
-  image: /assets/images/logo-large.png
+  image: /assets/images/about.png
 ---
 
 # About

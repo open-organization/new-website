@@ -1,9 +1,24 @@
 ---
-layout: splash
 title: Definitions
+layout: collection
 permalink: /definitions/
+collection: definitions
+layout: splash
+entries_layout: grid
+
+excerpt: "The Open Organization community maintains openly licensed, working definitions of concepts central to its work."
 header:
-  image: /assets/images/logo-large.png
+  image: /assets/images/definitions.png
+gallery:
+  - url: /assets/images/books/human_distance_cover.png
+    image_path: assets/images/books/human_distance_cover.png
+    alt: "Human at a distance"
+  - url: /assets/images/unsplash-gallery-image-2.jpg
+    image_path: assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+  - url: /assets/images/unsplash-gallery-image-3.jpg
+    image_path: assets/images/unsplash-gallery-image-3-th.jpg
+    alt: "placeholder image 3"
 ---
 
 # Definitions
