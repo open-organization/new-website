@@ -6,7 +6,7 @@ collection: books
 layout: splash
 
 entries_layout: grid
-excerpt: "Our collaboratively written library is always evolving. Read, explore, edit, and contibute."
+excerpt: "Our collaboratively written library is always evolving. Read, learn, edit, and contibute."
 header:
   overlay_color: rgba(27,178,168,1)
 gallery:

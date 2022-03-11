@@ -6,7 +6,7 @@ collection: definitions
 layout: splash
 entries_layout: grid
 
-excerpt: "The Open Organization community maintains openly licensed, working definitions of concepts central to its work. Anyone can help improve them."
+excerpt: "Explore openly licensed, working definitions of concepts central to our work. Anyone can help improve them."
 header:
   overlay_color: rgba(178,27,75,1)
 gallery:
