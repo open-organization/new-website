@@ -1,14 +1,14 @@
 ---
-title: Books
-layout: collection
+title: Books <i class="fa-solid fa-books"></i>
+layout: collection 
 permalink: /books/
 collection: books
 layout: splash
-entries_layout: grid
 
+entries_layout: grid
 excerpt: "The Open Organization community maintains a collaboratively written,  evolving library of materials for understanding, exploring, and building next-generation organizations."
 header:
-  image: /assets/images/books.png
+  overlay_color: rgba(27,178,168,1)
 gallery:
   - url: /assets/images/books/human_distance_cover.png
     image_path: assets/images/books/human_distance_cover.png

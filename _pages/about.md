@@ -1,6 +1,7 @@
 ---
 layout: splash
 title: About <i class="fa-solid fa-comment-dots"></i>
+excerpt: "Our community members generate knowledge and share strategies for building organizational cultures with open principles."
 permalink: /about/
 header:
   overlay_color: rgba(49,27,178,1)

@@ -1,5 +1,5 @@
 ---
-title: Definitions
+title: Definitions <i class="fa-solid fa-layer-group"></i>
 layout: collection
 permalink: /definitions/
 collection: definitions
@@ -8,7 +8,7 @@ entries_layout: grid
 
 excerpt: "The Open Organization community maintains openly licensed, working definitions of concepts central to its work."
 header:
-  image: /assets/images/definitions.png
+  overlay_color: rgba(178,27,75,1)
 gallery:
   - url: /assets/images/books/openorg_definition_cover.jpg
     image_path: assets/images/books/openorg_definition_cover.jpg
