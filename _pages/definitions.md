@@ -6,7 +6,7 @@ collection: definitions
 layout: splash
 entries_layout: grid
 
-excerpt: "The Open Organization community maintains openly licensed, working definitions of concepts central to its work."
+excerpt: "The Open Organization community maintains openly licensed, working definitions of concepts central to its work. Anyone can help improve them."
 header:
   overlay_color: rgba(178,27,75,1)
 gallery:
@@ -14,11 +14,6 @@ gallery:
     image_path: assets/images/books/openorg_definition_cover.jpg
     alt: "open org definition"
 ---
-
-# Definitions
-The Open Organization community maintains openly licensed, working definitions of concepts central to its work.
-
-Anyone can help improve them. Join the [Open Organization community on GitHub](https://github.com/open-organization) to get started.
 
 ## The Open Organization Definition
 Forward-thinking organizations are embracing open principles in order to become more agile, innovative, and engaged. [The Open Organization Definition](https://theopenorganization.org/definition/open-organization-definition) outlines five characteristics of open organizations—transparency, inclusivity, adaptability, collaboration, and community—and explains how they can serve as a foundation for new organizational behaviors, systems, and structures.

@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: About <i class="fa-solid fa-comment-dots"></i>
-excerpt: "Our community members generate knowledge and share strategies for building organizational cultures with open principles."
+excerpt: "We generate knowledge about and share strategies for building organizational cultures with open characteristics."
 permalink: /about/
 header:
   overlay_color: rgba(49,27,178,1)
@@ -10,7 +10,7 @@ header:
 ## Our purpose
 The Open Organization is a community-driven project leading a global conversation about the ways open principles change how people work, manage, and lead.
 
-Our community members generate knowledge and share strategies for building organizational cultures on principles like transparency, adaptability, collaboration, inclusivity, and community.
+Our community members generate knowledge about and share strategies for building organizational cultures on principles like transparency, adaptability, collaboration, inclusivity, and community.
 
 ## Our commitments
 We're committed to:
