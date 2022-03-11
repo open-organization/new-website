@@ -3,7 +3,7 @@ layout: splash
 title: About
 permalink: /about/
 header:
-  image: /assets/images/about.png
+  overlay_color: rgba(49,27,178,1)
 ---
 
 # About
