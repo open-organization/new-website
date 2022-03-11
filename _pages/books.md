@@ -26,12 +26,15 @@ gallery2:
   - url: /assets/images/books/openorg_fieldguide_cover.png
     image_path: assets/images/books/openorg_fieldguide_cover.png
     alt: "Open org field guide"
+    url: /field-guide/
   - url: /assets/images/books/openorg_leadersmanual_cover.png
     image_path: assets/images/books/openorg_leadersmanual_cover.png
     alt: "Open org Leaders Manual"
+    url: /leaders-manual/
   - url: /assets/images/books/openorg_workbook_cover.png
     image_path: assets/images/books/openorg_workbook_cover.png
     alt: "Open org workbook"
+    url: /openorg-workbook/
 ---
 
 # Books

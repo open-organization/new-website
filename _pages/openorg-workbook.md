@@ -1,12 +1,12 @@
 ---
 layout: collection
-title: Guide to IT Culture Change
-permalink: /it-guide/
+title: The Open Organization Workbook
+permalink: /openorg-workbook/
 collection: books
 layout: single
 
 entries_layout: grid
-excerpt: "[*The Open Organization Guide to IT Culture Change*](https://github.com/open-organization/open-org-it-culture/raw/master/open_org_it_culture_1_0.pdf) offers practical advice for creating open IT departments."
+excerpt: "[*The Open Organization Workbook*](https://github.com/open-organization/open-org-workbook/raw/master/open_org_workbook_1_1_5.pdf) features contributions from more than 30 managers, educators, technologists, consultants, and other experts, who offer concrete and actionable strategies for putting the principles of openness into action."
 header:
   overlay_color: rgba(27,178,168,1)
 gallery:
@@ -31,6 +31,6 @@ gallery2:
     alt: "Open org workbook"
 ---
 
-[![Open org Guide to IT Culture Change](/assets/images/books/openorg_itculture_cover.png#book-cover)](https://github.com/open-organization/open-org-it-culture/raw/master/open_org_it_culture_1_0.pdf)
+[![Open org Workbook](/assets/images/books/openorg_workbook_cover.png#book-cover)](https://github.com/open-organization/open-org-workbook/raw/master/open_org_workbook_1_1_5.pdf)
 
-In [*The Open Organization Guide to IT Culture Change*](https://github.com/open-organization/open-org-it-culture/raw/master/open_org_it_culture_1_0.pdf), more than 25 contributors from open communities, companies, and projects offer hard-won lessons and practical advice for creating an open IT department—one that can deliver better, faster results and unparalleled business value.
+[*The Open Organization Workbook*](https://github.com/open-organization/open-org-workbook/raw/master/open_org_workbook_1_1_5.pdf) features contributions from more than 30 managers, educators, technologists, consultants, and other experts, who offer concrete and actionable strategies for putting the principles of transparency, inclusivity, adaptability, collaboration, and community into practice.

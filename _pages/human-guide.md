@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: Guide to Distributed Teamwork <i class="fa-solid fa-book"></i>	
+title: Guide to Distributed Teamwork
 permalink: /human-guide/
 collection: books
 layout: single

@@ -1,12 +1,12 @@
 ---
 layout: collection
-title: Guide to IT Culture Change
-permalink: /it-guide/
+title: The Open Organization Field Guide
+permalink: /field-guide/
 collection: books
 layout: single
 
 entries_layout: grid
-excerpt: "[*The Open Organization Guide to IT Culture Change*](https://github.com/open-organization/open-org-it-culture/raw/master/open_org_it_culture_1_0.pdf) offers practical advice for creating open IT departments."
+excerpt: "[*The Open Organization Field Guide*](https://github.com/open-organization/open-org-field-guide/raw/master/open_org_field_guide_1_2_1.pdf) is a community-produced companion to [Jim Whitehurst's initial thoughts](https://www.redhat.com/en/explore/the-open-organization-book) on the future of work, management, and leadership."
 header:
   overlay_color: rgba(27,178,168,1)
 gallery:
@@ -31,6 +31,6 @@ gallery2:
     alt: "Open org workbook"
 ---
 
-[![Open org Guide to IT Culture Change](/assets/images/books/openorg_itculture_cover.png#book-cover)](https://github.com/open-organization/open-org-it-culture/raw/master/open_org_it_culture_1_0.pdf)
+[![Open org field guide](/assets/images/books/openorg_fieldguide_cover.png#book-cover)](https://github.com/open-organization/open-org-field-guide/raw/master/open_org_field_guide_1_2_1.pdf)
 
-In [*The Open Organization Guide to IT Culture Change*](https://github.com/open-organization/open-org-it-culture/raw/master/open_org_it_culture_1_0.pdf), more than 25 contributors from open communities, companies, and projects offer hard-won lessons and practical advice for creating an open IT department—one that can deliver better, faster results and unparalleled business value.
+[*The Open Organization Field Guide*](https://github.com/open-organization/open-org-field-guide/raw/master/open_org_field_guide_1_2_1.pdf) is a community-produced companion to [Jim Whitehurst's initial thoughts on the future of work, management, and leadership](https://www.redhat.com/en/explore/the-open-organization-book). The book collects cutting-edge ideas about the ways open source values are changing the ways we work, manage, and lead.

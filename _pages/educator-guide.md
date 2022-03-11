@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: Guide for Educators <i class="fa-solid fa-book"></i>	
+title: Guide for Educators
 permalink: /educator-guide/
 collection: books
 layout: single
