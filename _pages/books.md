@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: Books <i class="fa-solid fa-book"></i>
+title: Books <i class="fa-solid fa-book"></i>	
 permalink: /books/
 collection: books
 layout: splash
@@ -13,12 +13,15 @@ gallery:
   - url: /assets/images/books/human_distance_cover.png
     image_path: assets/images/books/human_distance_cover.png
     alt: "Human at a distance"
+    url: /human-guide/
   - url: /assets/images/books/openorg_itculture_cover.png
     image_path: assets/images/books/openorg_itculture_cover.png
     alt: "Open org IT culture guide"
+    url: /it-guide/
   - url: /assets/images/books/openorg_educators_cover.png
     image_path: assets/images/books/openorg_educators_cover.png
     alt: "open org educators workbook"
+    url: /educator-guide/
 gallery2:
   - url: /assets/images/books/openorg_fieldguide_cover.png
     image_path: assets/images/books/openorg_fieldguide_cover.png
