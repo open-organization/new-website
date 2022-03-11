@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "The Open Organization" # site title used in masthead
 title_separator          : "-"
 subtitle                 : "Resources for building open organizations" # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "The Open Organization"
 description              : "Resources for building open organizations"
 url                      : "https://theopenorganization.org"
 baseurl                  : #"/new-website"
