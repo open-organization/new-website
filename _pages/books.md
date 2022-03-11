@@ -1,6 +1,6 @@
 ---
-title: Books <i class="fa-solid fa-books"></i>
-layout: collection 
+layout: collection
+title: Books <i class="fa-solid fa-book"></i>
 permalink: /books/
 collection: books
 layout: splash
