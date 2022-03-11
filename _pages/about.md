@@ -36,3 +36,7 @@ Our community members have diverse backgrounds; they're people from a number of 
 - Consider themselves champions of open organizational values and principles, as outlined in the [Open Organization Definition](https://github.com/open-organization/open-org-definition),
 - Care about the ways those values can help create better organizational experiences for everyone, and
 - Enjoy working productively with others who feel the same way.
+
+## Meet the Ambassadors
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLLIYDJHuxOkZ91IGhRf7gQb74_PuMUI83" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
