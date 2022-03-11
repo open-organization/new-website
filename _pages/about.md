@@ -1,12 +1,10 @@
 ---
 layout: splash
-title: About
+title: About <i class="fa-solid fa-comment-dots"></i>
 permalink: /about/
 header:
   overlay_color: rgba(49,27,178,1)
 ---
-
-# About
 
 ## Our purpose
 The Open Organization is a community-driven project leading a global conversation about the ways open principles change how people work, manage, and lead.
