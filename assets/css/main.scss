@@ -11,3 +11,7 @@
 .page__content p, .page__content li, .page__content dl{
 	font-size:.95em;
 }
+
+::selection{
+	color:#fff;background:#9966cc;
+}
