@@ -33,4 +33,6 @@ gallery2:
 
 [![Open org Guide for Educators](/assets/images/books/openorg_educators_cover.png#book-cover)](https://github.com/open-organization/open-org-educators-guide/raw/master/open_org_educators_guide_1_0_1.pdf)
 
+<img src="/assets/images/books/openorg_educators_cover.png"/>
+
 What if we could build classrooms, departments, or entire educational institutions on the same values that power open source communities? What if we let open organization principles guide our experiments in transforming education? How might that change the ways educators prepare students for life in an increasingly open world? 
